@@ -16,3 +16,5 @@ The various features of the cleaned dataset are explained below:
 9) Duration: A continuous feature that displays the overall amount of time it takes to travel between cities in hours.
 10)Days Left: This is a derived characteristic that is calculated by subtracting the trip date by the booking date.
 11) Price: Target variable stores information of the ticket price.
+
+### Feature Selection and Feature Extraction Still pending
